@@ -1,0 +1,22 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "NodeSchool.io tutorial.",
+  "main": "01-beep-boop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byrondover/stream-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byrondover/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/byrondover/stream-adventure#readme",
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
